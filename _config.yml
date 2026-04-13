@@ -46,7 +46,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
+  # 社交链接已移除
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # --------------------------------------
@@ -264,6 +264,7 @@ footer:
   copyright:
     enable: true
     version: true
+    text: phoobobo
   custom_text:
 
 # --------------------------------------
@@ -283,13 +284,13 @@ aside:
     tag: true
     category: true
   card_author:
-    enable: true
+    enable: false
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      # icon: fab fa-github
+      # text: Follow Me
+      # link: https://github.com/xxxxxx
   card_announcement:
     enable: true
     content: This is my Blog
